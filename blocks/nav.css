@@ -1,0 +1,11 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav_logo{
+    position: relative;
+    height: 39px;
+    width: 105px;
+    left: -50px;
+}
