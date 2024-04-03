@@ -7,9 +7,16 @@
 
 }
 
-.header_title{
+.header__title{
     font-family: "Inter", "Arial", sans-serif;
+    text-align: center;
+    font-size: 60px;
+    margin: 0 0 50px;
+}
 
+.header__description{
+    text-align: center;
+    font-size: 20px;
 }
 
 @media  screen and (max-width: 425px) {
