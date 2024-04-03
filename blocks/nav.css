@@ -3,14 +3,14 @@
     justify-content: space-between;
 }
 
-.nav_logo{
+.nav__logo{
     position: relative;
     height: 39px;
     width: 105px;
     left: -50px;
 }
 
-.nav_links{
+.nav__links{
     display: flex;
     list-style-type: none;
     gap: 20px;
@@ -19,7 +19,7 @@
     color: #0000;
 }
 
-.nav_link{
+.nav__link{
     text-decoration: none;
     font-weight: bold;
     font-family: "Inter", "Arial", sans-serif;
@@ -30,6 +30,6 @@
     
 }
 
-.nav_link:hover{
+.nav__link:hover{
     color: lightskyblue;
 }
