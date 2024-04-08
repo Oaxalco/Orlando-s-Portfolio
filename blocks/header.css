@@ -30,7 +30,7 @@
 .header__title span:last-child{
     background: -webkit-linear-gradient(rgb(0, 57, 100));
     background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #1662ad;
 }
 
 .header__description {

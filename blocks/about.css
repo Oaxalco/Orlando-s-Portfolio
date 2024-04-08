@@ -1,0 +1,12 @@
+.about{
+    padding-top: 100px;
+}
+
+.about__title{
+    font-family: "Inter", "Arial", sans-serif;
+    font-style: normal;
+    font-size: 35px;
+    line-height: 52px;
+    max-width: 580px;
+    font-weight: 300;
+}
