@@ -4,6 +4,10 @@
   max-height: 800px;
   box-sizing: border-box;
   padding: 30px 80px 40px;
+  background-image: url(../images/galaxy.jpg);
+  background-position: center;
+  background-size: cover;
+  z-index: 0;
 }
 
 .header__title {
@@ -19,13 +23,13 @@
 
 .header__title span:first-child {
   background: -webkit-linear-gradient(#fff, #a5a5a5);
-  -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .header__title span:last-child{
     background: -webkit-linear-gradient(rgb(0, 57, 100));
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
