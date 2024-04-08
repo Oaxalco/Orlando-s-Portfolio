@@ -6,13 +6,6 @@
     align-items: center;
 }
 
-.nav__logo{
-    position: relative;
-    height: 150px;
-    width: 105px;
-    left: -40px;
-}
-
 .nav__links{
     display: flex;
     list-style-type: none;
@@ -30,7 +23,7 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 20px;
-    
+    color: lightsteelblue;
 }
 
 .nav__link:hover{
