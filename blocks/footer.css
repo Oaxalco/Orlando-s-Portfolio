@@ -9,6 +9,19 @@
   margin-top: 30px;
 }
 
+.footer__social{
+    color: #fff;
+
+}
+
+.footer__social-link{
+    color: #fff;
+}
+
+.footer__social-icon{
+    color: lightsteelblue;
+}
+
 @media screen and (min-width: 650px) {
   .footer {
     display: flex;
