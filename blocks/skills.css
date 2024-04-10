@@ -1,3 +1,33 @@
 .skills{
-    padding-top: 100px;
+    padding-top: 40px;
+}
+
+
+.skills-wrapper{
+    gap: 6px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 12px;
+}
+
+.skills-wrapper span{
+    padding: 5px;
+    border-radius: 2px;
+    border: 1px solid #333333;
+    background-color: #232323;
+    box-shadow: 0 2px 3px #0000003d;
+}
+
+@media screen and (min-width: 650px) {
+
+    .skills-wrapper{
+        gap: 7px;
+        font-size: 14px;
+    }
+
+
+    .skills-wrapper span{
+        padding: 8px;
+    }
+    
 }
