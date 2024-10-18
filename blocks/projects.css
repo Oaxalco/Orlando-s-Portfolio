@@ -1,3 +1,30 @@
+.hustle{
+    height: 100%;
+}
+
+.project-container{
+    height: 100%;
+}
+
+.project-wrapper{
+    display: flex;
+    height: 100%;
+}
+
+.project-list{
+    list-style-type: none;
+    column-count: 3;
+    height: 100%;
+}
+
+.projects{
+    margin: 10px;
+}
+
+.project{
+    color: white;
+}
+
 .image{
-    height: 50px;
+    height: 15vh;
 }
