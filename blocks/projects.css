@@ -23,8 +23,15 @@
 
 .project{
     color: white;
+    display: flex;
+    gap: 20px;
+    align-items: end;
 }
 
 .image{
     height: 15vh;
+}
+
+.image:hover{
+    transform: scale(1.2);
 }
